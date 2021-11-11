@@ -1,0 +1,43 @@
+body {
+    font-family: Lobster, monospace;  
+    color: azure; 
+    margin: 0;
+    padding: 0;
+    background: rgb(190, 113, 18)
+}  
+
+header {
+    background: black;
+    margin 20px 40px 10px 50px;
+    padding: 20px;
+} 
+
+section{
+    background: white:
+    color: white; 
+    padding: 20px;
+    display: flex;
+    flex-direction: row
+}
+
+div {
+    background: brown;
+    margin: auto;
+    width: 100px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+footer{
+    background: black;
+    padding: 20px;
+}
+
